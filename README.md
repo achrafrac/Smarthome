@@ -1,1 +1,1 @@
-# Smarthomz
+# Smarthome
